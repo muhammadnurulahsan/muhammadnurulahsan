@@ -19,7 +19,7 @@
 
 - ⚡ Fun fact **I am Funny 😁**
 
-<h3 align="center">Connect with me:</h3>
+<h1><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width='50'/>&nbsp;Connect with me</h1>
 <p align="center">
 <a  target="_blank" href="https://linkedin.com/in/muhammadnurulahsan" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammadnurulahsan" height="30" width="40" /></a>
 <a  target="_blank" href="https://twitter.com/mdnurulahsan" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mdnurulahsan" height="30" width="40" /></a>
@@ -35,7 +35,7 @@
 <a  target="_blank" href="https://discord.gg/Muhammad Nurul Ahsan#8015" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Muhammad Nurul Ahsan#8015" height="30" width="40" /></a>
 </p>
 <br />
-<h2><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width='50'/>&nbsp;Technologies that I know</h2>
+<h1><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width='50'/>&nbsp;Technologies that I know</h1>
 
 <br>
 <p align="center">
