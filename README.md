@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋 I'm Muhammad Nurul Ahsan.</h1>
 <h2 align="center">A passionate Full Stack developer from Bangladesh.</h2>
 
-<h3 align="center">My name is Muhammad Nurul Ahsan. I'm a MERN Stack Developer based in Bangladesh ☀️. I describe myself as a passionate developer who loves coding, open source, and the web platform ❤️.
-
-Aside from my job, I like to create and contribute to open source projects. That helps me to learn a ton of new stuff, grow as a developer, and support other open source projects. Also, I enjoy writing technical things ✍️ on my blog.</h3>
-
 <div align="start">
 
 - 🔭 I’m currently working on [Digit Carts](https://www.digitcarts.com/)
@@ -21,6 +17,10 @@ Aside from my job, I like to create and contribute to open source projects. That
 
 - ⚡ Fun fact **I am Funny 😁**
 </div>
+
+<h3 align="center">My name is Muhammad Nurul Ahsan. I'm a MERN Stack Developer based in Bangladesh ☀️. I describe myself as a passionate developer who loves coding, open source, and the web platform ❤️.
+
+Aside from my job, I like to create and contribute to open source projects. That helps me to learn a ton of new stuff, grow as a developer, and support other open source projects. Also, I enjoy writing technical things ✍️ on my blog.</h3>
 
 <h1><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width='50'/>&nbsp;Connect with me</h1>
 <br/>
