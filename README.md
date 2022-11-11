@@ -41,7 +41,8 @@ Aside from my job, I like to create and contribute to open source projects. That
 <br />
 <p align="center"> 
     <img src="https://github-readme-stats.vercel.app/api?username=muhammadnurulahsan&show_icons=true&theme=gotham" alt="muhammadnurulahsan" />
-<!-- [![Github](https://img.shields.io/github/followers/muhammadnurulahsan?label=Follow&style=social)](https://github.com/muhammadnurulahsan)&nbsp;![Profile views](https://gpvc.arturio.dev/muhammadnurulahsan)  -->
+    
+[![Github](https://img.shields.io/github/followers/muhammadnurulahsan?label=Follow&style=social)](https://github.com/muhammadnurulahsan)&nbsp;![Profile views](https://gpvc.arturio.dev/muhammadnurulahsan) 
 
 </p>
 
