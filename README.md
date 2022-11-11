@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Nurul Ahsan.</h1>
 <h3 align="center">A passionate Full Stack enveloper from Bangladesh.</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=muhammadnurulahsan&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadnurulahsan" /> </p>
 
-<p align="center"> <a  target="_blank" href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammadnurulahsan" alt="muhammadnurulahsan" /></a> </p>
 
 - 🔭 I’m currently working on [Digit Carts](https://www.digitcarts.com/)
 
@@ -18,6 +16,13 @@
 - 📄 Know about my experiences [My Update Resume](https://drive.google.com/file/d/1zGQmRLdyy-3-HTOsUdc5v703VFc97HHQ/view)
 
 - ⚡ Fun fact **I am Funny 😁**
+
+<br />
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=muhammadnurulahsan&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadnurulahsan" /> </p>
+
+<p align="center"> <a  target="_blank" href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammadnurulahsan" alt="muhammadnurulahsan" /></a> </p>
+<br />
+
 
 <h1><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width='50'/>&nbsp;Connect with me</h1>
 <br/>
