@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=muhammadnurulahsan&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadnurulahsan" /> </p>
 
-<a href="#" onclick='window.open("http://www.foracure.org.au");return false;'></a>
+<a href="#" onclick='window.open("https://www.digitcarts.com");return false;'>Digit</a>
 
 <p align="center"> <a  target="_blank" href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammadnurulahsan" alt="muhammadnurulahsan" /></a> </p>
 
