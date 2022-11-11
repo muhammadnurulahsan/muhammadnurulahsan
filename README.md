@@ -39,7 +39,11 @@ Aside from my job, I like to create and contribute to open source projects. That
 <h1><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width='50'/>&nbsp;Github Activity & Profile views</h1>
 
 <br />
-<p align="center"> [![Github](https://img.shields.io/github/followers/muhammadnurulahsan?label=Follow&style=social)](https://github.com/muhammadnurulahsan)&nbsp;![Profile views](https://gpvc.arturio.dev/muhammadnurulahsan) </p>
+<p align="center"> 
+    <img src="https://github-readme-stats.vercel.app/api?username=muhammadnurulahsan&show_icons=true&theme=gotham" alt="muhammadnurulahsan" />
+<!-- [![Github](https://img.shields.io/github/followers/muhammadnurulahsan?label=Follow&style=social)](https://github.com/muhammadnurulahsan)&nbsp;![Profile views](https://gpvc.arturio.dev/muhammadnurulahsan)  -->
+
+</p>
 
 <p align="center"> <a  target="_blank" href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammadnurulahsan" alt="muhammadnurulahsan" /></a> </p>
 
