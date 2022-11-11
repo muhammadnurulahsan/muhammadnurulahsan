@@ -4,18 +4,12 @@
 <div align="center">
 
 🔭 I’m currently working on [Digit Carts](https://www.digitcarts.com/)
-
 🌱 I’m currently learning **Next.js, Typescript, Nest.js, Redux**
-
 👨‍💻 All of my projects are available at [My Portfolio](https://nurul-ahsan.web.app/)
-
 💬 Ask me about **React Native, Node.js**
-
 📫 How to reach me **mdnurulahsanbdbd@gmail.com**
-
 📄 Know about my experiences [My Update Resume](https://drive.google.com/file/d/1zGQmRLdyy-3-HTOsUdc5v703VFc97HHQ/view)
-
-- ⚡ Fun fact **I am Funny 😁**
+⚡ Fun fact **I am Funny 😁**
 </div>
 
 <h3 align="center">My name is Muhammad Nurul Ahsan. I'm a MERN Stack Developer based in Bangladesh ☀️. I describe myself as a passionate developer who loves coding, open source, and the web platform ❤️.
