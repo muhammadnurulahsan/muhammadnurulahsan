@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋 I'm Muhammad Nurul Ahsan.</h1>
 <h2 align="center">A passionate Full Stack developer from Bangladesh.</h2>
-
+<br/>
 <img align="right" width="400" src="https://raw.githubusercontent.com/muhammadnurulahsan/muhammadnurulahsan/main/muhammad-nurul-ahsan.gif" alt="muhammadnurulahsan" />
 
 - 🔭 I’m currently working on [Digit Carts](https://www.digitcarts.com/)
@@ -16,8 +16,7 @@
 - 📫 How to reach me **mdnurulahsanbdbd@gmail.com**
 
 - 📄 Know about my experiences [My Update Resume](https://drive.google.com/file/d/1zGQmRLdyy-3-HTOsUdc5v703VFc97HHQ/view)
-
-⚡ Fun fact **I am Funny 😁**
+<br/>
 
 
 <h3 align="center">My name is Muhammad Nurul Ahsan. I'm a MERN Stack Developer based in Bangladesh ☀️. I describe myself as a passionate developer who loves coding, open source, and the web platform ❤️.
