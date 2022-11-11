@@ -5,7 +5,7 @@
 
 Aside from my job, I like to create and contribute to open source projects. That helps me to learn a ton of new stuff, grow as a developer, and support other open source projects. Also, I enjoy writing technical things ✍️ on my blog.</h3>
 
-<div align="center">
+<div align="start">
 
 - 🔭 I’m currently working on [Digit Carts](https://www.digitcarts.com/)
 
