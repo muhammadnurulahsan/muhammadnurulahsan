@@ -12,7 +12,7 @@ Aside from my job, I like to create and contribute to open source projects. That
 
 - 🔭 I’m currently working on [Digit Carts](https://www.digitcarts.com/)
 
-- 💬 Ask me about **React Native, Node.js**
+- 💬 Ask me about **MUI, React Native, Node.js**
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://nurul-ahsan.web.app/)
 
