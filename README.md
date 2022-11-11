@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋 I'm Muhammad Nurul Ahsan.</h1>
-<h3 align="center">A passionate Full Stack developer from Bangladesh.</h3>
-<h4 align="center">My name is Muhammad Nurul Ahsan. I'm a MERN Stack Developer based in Bangladesh ☀️. I describe myself as a passionate developer who loves coding, open source, and the web platform ❤️.</h4>
+<h2 align="center">A passionate Full Stack developer from Bangladesh.</h2>
+<h3 align="center">My name is Muhammad Nurul Ahsan. I'm a MERN Stack Developer based in Bangladesh ☀️. I describe myself as a passionate developer who loves coding, open source, and the web platform ❤️.
 <br/>
-<h4>Aside from my job, I like to create and contribute to open source projects. That helps me to learn a ton of new stuff, grow as a developer, and support other open source projects. Also, I enjoy writing technical things ✍️ on my blog.</h4>
+Aside from my job, I like to create and contribute to open source projects. That helps me to learn a ton of new stuff, grow as a developer, and support other open source projects. Also, I enjoy writing technical things ✍️ on my blog.</h3>
 
 - 🔭 I’m currently working on [Digit Carts](https://www.digitcarts.com/)
 
