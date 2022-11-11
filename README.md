@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋 I'm Muhammad Nurul Ahsan.</h1>
 <h2 align="center">A passionate Full Stack developer from Bangladesh.</h2>
 
-<p align="right"> <img src="https://github.com/muhammadnurulahsan/muhammadnurulahsan/blob/main/muhammad-nurul-ahsan.gif" alt="muhammadnurulahsan" /></p>
+<img align="right" width="400" src="https://raw.githubusercontent.com/muhammadnurulahsan/muhammadnurulahsan/main/muhammad-nurul-ahsan.gif" alt="muhammadnurulahsan" />
 
 - 🔭 I’m currently working on [Digit Carts](https://www.digitcarts.com/)
 
