@@ -56,7 +56,7 @@
 <br />
 <p align="center">
    <table align="center">
-   <h1><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width='50'/>&Github Stats</h1>
+   <h1><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width='50'/>Github Stats</h1>
        <tr>
        <td><img alt="muhammadnurulahsan :: Profile Stats" src="https://github-readme-stats.vercel.app/api?username=muhammadnurulahsan&theme=blue-green&amp;show_icons=true&amp;count_private=true&amp;hide_border=true" /></td>
        <td><img alt="muhammadnurulahsan :: Top Langs]" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadnurulahsan&langs_count=14&theme=blue-green&layout=compact&hide=html"> </td>
