@@ -3,7 +3,7 @@
 
 <p align="center">
 
-- 🔭 I’m currently working on [Digit Carts](https://www.digitcarts.com/)
+<p>- 🔭 I’m currently working on [Digit Carts](https://www.digitcarts.com/)</p>
 
 - 🌱 I’m currently learning **Next.js, Typescript, Nest.js, Redux**
 
