@@ -15,13 +15,6 @@
 
 - ⚡ Fun fact **I am Funny 😁**
 
-<h1><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width='50'/>&nbsp;Github Activity & Profile views</h1>
-
-<br />
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=muhammadnurulahsan&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadnurulahsan" /> </p>
-
-<p align="center"> <a  target="_blank" href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammadnurulahsan" alt="muhammadnurulahsan" /></a> </p>
-
 <h1><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width='50'/>&nbsp;Connect with me</h1>
 <br/>
 <p align="center">
@@ -38,6 +31,13 @@
 <a  target="_blank" href="https://dev.to/muhammadnurulahsan" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="muhammadnurulahsan" height="30" width="40" /></a>
 <a  target="_blank" href="https://discord.gg/Muhammad Nurul Ahsan#8015" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Muhammad Nurul Ahsan#8015" height="30" width="40" /></a>
 </p>
+
+<h1><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width='50'/>&nbsp;Github Activity & Profile views</h1>
+
+<br />
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=muhammadnurulahsan&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadnurulahsan" /> </p>
+
+<p align="center"> <a  target="_blank" href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammadnurulahsan" alt="muhammadnurulahsan" /></a> </p>
 
 <h1><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width='50'/>&nbsp;Technologies that I know</h1>
 
@@ -56,7 +56,7 @@
 <br />
 <p align="center">
    <table align="center">
-   <h1 align="center">Github Stats</h1>
+   <h1><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width='50'/>&Github Stats</h1>
        <tr>
        <td><img alt="muhammadnurulahsan :: Profile Stats" src="https://github-readme-stats.vercel.app/api?username=muhammadnurulahsan&theme=blue-green&amp;show_icons=true&amp;count_private=true&amp;hide_border=true" /></td>
        <td><img alt="muhammadnurulahsan :: Top Langs]" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadnurulahsan&langs_count=14&theme=blue-green&layout=compact&hide=html"> </td>
