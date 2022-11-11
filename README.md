@@ -1,22 +1,23 @@
+[![MasterHead](https://raw.githubusercontent.com/0x48piraj/0x48piraj/master/assets/0x48piraj.png)](https://0x48piraj.github.io)
+
 <h1 align="center">Hi 👋 I'm Muhammad Nurul Ahsan.</h1>
 <h2 align="center">A passionate Full Stack developer from Bangladesh.</h2>
 
-<div align="center">
 
-🔭 I’m currently working on [Digit Carts](https://www.digitcarts.com/)
+- 🔭 I’m currently working on [Digit Carts](https://www.digitcarts.com/)
 
-🌱 I’m currently learning **Next.js, Typescript, Nest.js, Redux**
+- 🌱 I’m currently learning **Next.js, Typescript, Nest.js, Redux**
 
-👨‍💻 All of my projects are available at [My Portfolio](https://nurul-ahsan.web.app/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://nurul-ahsan.web.app/)
 
-💬 Ask me about **React Native, Node.js**
+- 💬 Ask me about **React Native, Node.js**
 
-📫 How to reach me **mdnurulahsanbdbd@gmail.com**
+- 📫 How to reach me **mdnurulahsanbdbd@gmail.com**
 
-📄 Know about my experiences [My Update Resume](https://drive.google.com/file/d/1zGQmRLdyy-3-HTOsUdc5v703VFc97HHQ/view)
+- 📄 Know about my experiences [My Update Resume](https://drive.google.com/file/d/1zGQmRLdyy-3-HTOsUdc5v703VFc97HHQ/view)
 
 ⚡ Fun fact **I am Funny 😁**
-</div>
+
 
 <h3 align="center">My name is Muhammad Nurul Ahsan. I'm a MERN Stack Developer based in Bangladesh ☀️. I describe myself as a passionate developer who loves coding, open source, and the web platform ❤️.
 
