@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Digit Carts](https://www.digitcarts.com/)
 
-- 🌱 I’m currently learning **Next.js, Typescript, Nest.js, Redux**
+- 🌱 I’m currently learning **Nest.js, Redux**
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://nurul-ahsan.web.app/)
 
