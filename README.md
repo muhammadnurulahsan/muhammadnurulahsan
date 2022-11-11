@@ -43,7 +43,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadnurulahsan&" alt="muhammadnurulahsan" /></p> -->
 
 <p align="center">
-   <table>
+   <table align="center">
    <h1 align="center">Github Stats</h1>
        <tr>
        <td><img alt="muhammadnurulahsan :: Profile Stats" src="https://github-readme-stats.vercel.app/api?username=muhammadnurulahsan&theme=blue-green&amp;show_icons=true&amp;count_private=true&amp;hide_border=true" /></td>
