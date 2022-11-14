@@ -5,7 +5,7 @@
 
 <p align="center"><img src="https://img.shields.io/github/followers/muhammadnurulahsan?label=Follow&style=social"/>
 <img src="https://komarev.com/ghpvc/?username=muhammadnurulahsan&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadnurulahsan" /></p>
-<p align="right"><a href="https://app.daily.dev/muhammadahsan"><img src="https://api.daily.dev/devcards/c90638f18df347808328a06f292fb7b5.png?r=q71" width="400" alt="Muhammad Nurul Ahsan's Dev Card"/></a></p>
+<p align="right"><a href="https://app.daily.dev/muhammadahsan"><img src="https://api.daily.dev/devcards/c90638f18df347808328a06f292fb7b5.png?r=q71" width="300" alt="Muhammad Nurul Ahsan's Dev Card"/></a></p>
 <br/>
 
 <h3>My name is Muhammad Nurul Ahsan.<br/>  I'm a MERN Stack Developer based in<br/> Bangladesh ☀️.<br/> I describe myself as a passionate developer<br/> who loves coding, open source, and the<br/> web platform ❤️.
