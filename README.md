@@ -8,7 +8,7 @@
 <p align="right"><a href="https://app.daily.dev/muhammadahsan"><img src="https://api.daily.dev/devcards/c90638f18df347808328a06f292fb7b5.png?r=q71" width="400" alt="Muhammad Nurul Ahsan's Dev Card"/></a></p>
 <br/>
 
-<h3 align="left">My name is Muhammad Nurul Ahsan.<br/>  I'm a MERN Stack Developer based in Bangladesh ☀️.<br/> I describe myself as a passionate developer<br/> who loves coding, open source, and the web platform ❤️.
+<h3>My name is Muhammad Nurul Ahsan.<br/>  I'm a MERN Stack Developer based in<br/> Bangladesh ☀️.<br/> I describe myself as a passionate developer<br/> who loves coding, open source, and the<br/> web platform ❤️.
 
 Aside from my job, I like to create<br/> and contribute to open source projects.<br/> That helps me to learn <br/>a ton of new stuff, grow as a developer, <br/>and support other open source projects. <br/>Also, I enjoy writing technical<br/> things ✍️ on my blog.</h3>
 
